@@ -41,7 +41,7 @@ The goal is not to predict churn with machine learning, but to enable **actionab
 ---
 
 ## Dashboard Preview
-<img width="1274" height="1649" alt="Customer Retention   Revenue  Recovery Analysis" src="https://github.com/user-attachments/assets/15c4b665-bbb7-4503-bb0d-c43ed0b95aa7" />
+<img width="1821" height="1649" alt="Customer Retention   Revenue  Recovery Analysis (1)" src="https://github.com/user-attachments/assets/6c16a06c-1e0d-4b5f-9820-bfab7dfacac0" />
 ---
 
 ## Tools Used
